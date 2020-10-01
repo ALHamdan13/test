@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">A.M. Git Repository</string>
+    <string name="testButton1">Hello</string>
+    <string name="testButton2">World</string>
+    <string name="testButton3">!</string>
+    <string name="testButton4">How</string>
+    <string name="testButton5">do you</string>
+    <string name="testButton6">do?</string>
 </resources>
